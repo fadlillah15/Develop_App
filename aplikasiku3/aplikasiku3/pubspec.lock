@@ -272,6 +272,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.3"
+<<<<<<< HEAD
   path_drawing:
     dependency: transitive
     description:
@@ -288,6 +289,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.1"
+=======
+>>>>>>> 5bc0cb561ad9553ee147d38c273749ecdfc23cd1
   plugin_platform_interface:
     dependency: transitive
     description:
